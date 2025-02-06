@@ -21,7 +21,7 @@
     <meta property="og:title" content="Invitacion Roxana" />
     <meta name="title" content="Invitacion Roxana" />
     <meta name="description" content="Ingresa para ver la invitacion." />
-    <meta property="og:image" content="mini.jpg" />
+    <meta property="og:image" content="mini.png" />
     <meta property="og:image:width" content="300" />
     <meta property="og:image:height" content="180" />
     <meta name="twitter:title" content="Invitacion Roxana" />
@@ -29,9 +29,9 @@
       name="twitter:description"
       content="Ingresa para ver la invitacion."
     />
-    <meta name="twitter:image" content="mini.jpg" />
+    <meta name="twitter:image" content="mini.png" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta itemprop="image" content="mini.jpg" />
+    <meta itemprop="image" content="mini.png" />
 
     <title>Invitacion Roxana</title>
 
