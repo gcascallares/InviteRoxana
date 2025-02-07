@@ -214,7 +214,7 @@
               <div class="heading_container">
                 <h2>Direccion</h2>
               </div>
-              <h3>11 de Noviembre 936, Libertad.</h3>
+              <h3>11 de Noviembre 936, San Antonio de Padua.</h3>
             </div>
           </div>
           <div class="col-md-8">
