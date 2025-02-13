@@ -113,7 +113,7 @@
                       <h1>En Febrero una Diosa cumple años!</h1>
                       <h2>
                         Ro te invita a festejar su cumpleaños
-                        el dia 22/02 desde las 12:00 hasta las 20:00.
+                        el dia 22/02 desde las 13:00 hasta las 20:00.
                       </h2>
                       <div class="btn-box">
                         <audio
